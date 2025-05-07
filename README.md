@@ -1,4 +1,4 @@
-# regtodfachecker
+# Regex->DFA
 Implementarea un program care primește o expresie regulată și construiește un automat finit determinist (DFA) echivalent. Implementarea este bazata pe urmatorii pasi:
 1. Scrieți un convertor de expresii regulate în notație postfixată.
 2. Implementați construcția NFA folosind postfixul și algoritmul lui Thompson.
