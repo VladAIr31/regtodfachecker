@@ -8,3 +8,5 @@ Implementarea un program care primește o expresie regulată și construiește u
 Codul se ruleaza folosind comanda
 
     python3 .\regtoDfa.py
+    
+Codul va returna Corect daca Dfa-ul rezultat din conversia expresiei are aceleasi expectev value pentru cuvintele pe care le testeaza testele din json 
