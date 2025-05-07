@@ -5,7 +5,7 @@ Implementarea un program care primește o expresie regulată și construiește u
 3. Implementați conversia NFA → DFA prin subset construction.
 4. Implementați un simulant de DFA (verifică dacă un cuvânt este acceptat de DFA).
 
-Codul se ruleaza folosind comanda
+Codul se ruleaza folosind comanda, dar trebuie sa avem grija ca fisierul json sa fie in acelasi director ca fisierul regtoDfa.py
 
     python3 .\regtoDfa.py
     
